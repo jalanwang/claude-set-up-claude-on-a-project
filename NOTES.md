@@ -1,0 +1,1 @@
+/memory에서 CLAUDE.md 로드가 확인되고, /permissions에서 규칙 목록이 확인됨
